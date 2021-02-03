@@ -1,0 +1,17 @@
+Name:			php-helloworld
+Namespace:		chienan-chen-iisigroup-com-route
+Created:		3 minutes ago
+Labels:			app=php-helloworld
+			app.kubernetes.io/component=php-helloworld
+			app.kubernetes.io/instance=php-helloworld
+Annotations:		openshift.io/host.generated=true
+Requested Host:		php-helloworld-chienan-chen-iisigroup-com-route.apps.ap45.prod.nextcle.com
+			  exposed on router default (host apps.ap45.prod.nextcle.com) 3 minutes ago
+Path:			<none>
+TLS Termination:	<none>
+Insecure Policy:	<none>
+Endpoint Port:		8080-tcp
+
+Service:	php-helloworld
+Weight:		100 (100%)
+Endpoints:	10.128.5.231:8443, 10.128.5.231:8080

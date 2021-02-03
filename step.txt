@@ -1,1 +1,0 @@
-cat /usr/local/etc/ocp4.source
